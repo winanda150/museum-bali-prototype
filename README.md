@@ -10,7 +10,25 @@ Museum Bali Prototype merupakan konsep desain website destinasi wisata yang dira
 
 Prototype ini dibuat menggunakan Figma dengan pendekatan UI/UX Design yang berfokus pada penyajian informasi budaya, sejarah, koleksi museum, galeri, acara, serta informasi pengunjung dalam satu platform digital yang terintegrasi.
 
-Project ini merupakan tugas kelompok pada mata kuliah **Tourism and Digital Culture**, yang bertujuan untuk mengembangkan solusi digital dalam mempromosikan destinasi wisata dan warisan budaya melalui pemanfaatan teknologi dan desain antarmuka yang modern.
+Project ini merupakan tugas kelompok pada mata kuliah Tourism and Digital Culture yang bertujuan untuk mengidentifikasi permasalahan pada destinasi wisata budaya dan merancang solusi digital yang dapat meningkatkan pengalaman pengunjung.
+
+---
+
+## 👥 Tim Project
+
+Project ini dikerjakan secara berkelompok oleh:
+
+- I Wayan Winanda
+- Ni Kadek Rahayu Windari
+- Putu Reva Dhamma Nanda
+- Ni Kadek Ristya Dewi
+- I Nyoman Cahyanta Kusumadinata
+
+---
+
+## 🖼️ Preview
+
+![Museum Bali Prototype](Mockup%20Prototype.jpg)
 
 ---
 
@@ -38,24 +56,6 @@ Beberapa solusi yang diterapkan dalam prototype ini meliputi:
 - Penambahan halaman event dan kegiatan budaya agar museum terasa lebih aktif, menarik, dan tidak monoton bagi pengunjung.
 - Penyediaan informasi lokasi, jam operasional, dan kontak yang mudah diakses.
 - Desain responsif yang dapat digunakan pada desktop, tablet, maupun perangkat mobile.
-
----
-
-## 👥 Tim Project
-
-Project ini dikerjakan secara berkelompok oleh:
-
-- I Wayan Winanda
-- Ni Kadek Rahayu Windari
-- Putu Reva Dhamma Nanda
-- Ni Kadek Ristya Dewi
-- I Nyoman Cahyanta Kusumadinata
-
----
-
-## 🖼️ Preview
-
-![Museum Bali Prototype](Mockup%20Prototype.jpg)
 
 ---
 
