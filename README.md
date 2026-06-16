@@ -14,6 +14,33 @@ Project ini merupakan tugas kelompok pada mata kuliah **Tourism and Digital Cult
 
 ---
 
+## 🔍 Analisis Permasalahan
+
+Berdasarkan hasil observasi dan analisis yang dilakukan, ditemukan beberapa permasalahan yang dapat memengaruhi minat masyarakat untuk mengunjungi Museum Bali, antara lain:
+
+- Kurangnya media digital yang menarik untuk memperkenalkan Museum Bali kepada masyarakat.
+- Informasi mengenai koleksi, paviliun, dan fasilitas museum belum tersampaikan secara optimal.
+- Sebagian masyarakat, khususnya generasi muda, masih menganggap museum sebagai tempat yang kurang menarik dan cenderung membosankan.
+- Informasi mengenai event dan kegiatan budaya yang diselenggarakan museum belum mudah diakses oleh pengunjung.
+- Pengunjung membutuhkan akses informasi yang cepat, praktis, dan mudah dipahami melalui perangkat digital.
+
+---
+
+## 💡 Solusi yang Ditawarkan
+
+Sebagai solusi, tim merancang prototype website destinasi wisata Museum Bali yang menghadirkan informasi secara terpusat dan mudah diakses oleh pengunjung.
+
+Beberapa solusi yang diterapkan dalam prototype ini meliputi:
+
+- Penyajian informasi Museum Bali secara lebih modern dan interaktif.
+- Penyediaan informasi paviliun, koleksi, dan sejarah museum secara terstruktur.
+- Penyajian galeri foto untuk meningkatkan daya tarik visual.
+- Penambahan halaman event dan kegiatan budaya agar museum terasa lebih aktif, menarik, dan tidak monoton bagi pengunjung.
+- Penyediaan informasi lokasi, jam operasional, dan kontak yang mudah diakses.
+- Desain responsif yang dapat digunakan pada desktop, tablet, maupun perangkat mobile.
+
+---
+
 ## 👥 Tim Project
 
 Project ini dikerjakan secara berkelompok oleh:
@@ -66,6 +93,8 @@ Project ini dibuat untuk:
 
 - Memenuhi tugas mata kuliah **Tourism and Digital Culture**
 - Merancang prototype website destinasi wisata berbasis digital
+- Mengidentifikasi permasalahan pada destinasi wisata budaya
+- Mengembangkan solusi digital untuk meningkatkan pengalaman pengunjung
 - Memperkenalkan Museum Bali melalui media digital yang modern
 - Meningkatkan aksesibilitas informasi wisata dan budaya
 - Mengembangkan keterampilan UI/UX Design menggunakan Figma
