@@ -28,7 +28,7 @@ Project ini dikerjakan secara berkelompok oleh:
 
 ## 🖼️ Preview
 
-![Museum Bali Prototype](Preview/Museum-Bali-Prototype.png)
+![Museum Bali Prototype](Mockup%20Prototype.jpg)
 
 ---
 
